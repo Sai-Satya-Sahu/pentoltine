@@ -17,7 +17,7 @@ export default function Page() {
       "What If I Asked Really Nicely?",
       "Cutie Please",
       "With a Chipsu With Noodles",
-      "What About Bhakarwadi"
+      "What About Bhakarwadi",
       "What about a Kittu Kattu",
       "PLEASE PENTOLU",
       "But :*(",
