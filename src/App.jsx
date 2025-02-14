@@ -15,19 +15,19 @@ export default function Page() {
       "No",
       "Are You Sure?",
       "What If I Asked Really Nicely?",
-      "Cutie Please🥲",
-      "With a Chipsu With Noodles👉👈",
-      "What About Bhakarwadi😎😉"
-      "What about a Kittu Kattu🍫",
+      "Cutie Please",
+      "With a Chipsu With Noodles",
+      "What About Bhakarwadi"
+      "What about a Kittu Kattu",
       "PLEASE PENTOLU",
       "But :*(",
       "I am Going To Die",
-      "Yess Im Dead👻👻👻",
-      "Okk ur Talking To Mr.Bhoot🥰",
-      "Please Cutie💗",
+      "Yess Im Dead",
+      "Okk ur Talking To Mr.Bhoot",
+      "Please Cutie",
       ":((((",
       "PRETTY PLEASE",
-      "Pentoluuu🥹",
+      "Pentoluuu",
       "No :(",
     ];
 
